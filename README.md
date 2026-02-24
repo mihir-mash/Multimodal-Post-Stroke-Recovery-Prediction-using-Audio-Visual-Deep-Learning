@@ -45,7 +45,3 @@ The proposed pipeline consists of:
 - Audio-visual joint inference system  
 
 Feature representations from multiple modalities are fused using deep neural architectures to capture cross-modality correlations for improved stroke prediction.
-
----
-
-## Repository Structure
